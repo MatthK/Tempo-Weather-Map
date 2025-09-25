@@ -16,4 +16,4 @@ Small toasts provide information in case an overlay isn't available or the API s
 
 The page was made by my local GPT-OSS 120b with plenty of iterations.
 
-<img src="https://raw.githubusercontent.com/MatthK/Tempo-Weather-Map/refs/heads/main/map.png" alt="Sample map" width="1024" height="auto">
+<img src="https://github.com/MatthK/Tempo-Weather-Map/blob/main/map.png?raw=true" alt="Sample map" width="1024" height="auto">
